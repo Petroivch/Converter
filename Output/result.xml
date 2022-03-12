@@ -1,0 +1,12 @@
+<Root>
+  <Area name="Akademka">
+    <place> Moscow</place>
+    <level> 1</level>
+    <citizens> 404</citizens>
+  </Area>
+  <Area name="Neakademka">
+    <place> Moscow</place>
+    <level> 4</level>
+    <citizens> 86</citizens>
+  </Area>
+</Root>

@@ -1,0 +1,14 @@
+D:\Univer\1_Course\Proga\OOP\Converter\bin\Release\netcoreapp3.1\publish\Converter.exe
+D:\Univer\1_Course\Proga\OOP\Converter\bin\Release\netcoreapp3.1\publish\Input\Area.txt
+D:\Univer\1_Course\Proga\OOP\Converter\bin\Release\netcoreapp3.1\publish\Input\CSVArea.csv
+D:\Univer\1_Course\Proga\OOP\Converter\bin\Release\netcoreapp3.1\publish\Input\JSONArea.json
+D:\Univer\1_Course\Proga\OOP\Converter\bin\Release\netcoreapp3.1\publish\Input\XLSXArea.xlsx
+D:\Univer\1_Course\Proga\OOP\Converter\bin\Release\netcoreapp3.1\publish\Input\XMLArea.xml
+D:\Univer\1_Course\Proga\OOP\Converter\bin\Release\netcoreapp3.1\publish\Output\1.json
+D:\Univer\1_Course\Proga\OOP\Converter\bin\Release\netcoreapp3.1\publish\Converter.dll
+D:\Univer\1_Course\Proga\OOP\Converter\bin\Release\netcoreapp3.1\publish\Converter.deps.json
+D:\Univer\1_Course\Proga\OOP\Converter\bin\Release\netcoreapp3.1\publish\Converter.runtimeconfig.json
+D:\Univer\1_Course\Proga\OOP\Converter\bin\Release\netcoreapp3.1\publish\Converter.pdb
+D:\Univer\1_Course\Proga\OOP\Converter\bin\Release\netcoreapp3.1\publish\Interop.ACTIVEXLib.dll
+D:\Univer\1_Course\Proga\OOP\Converter\bin\Release\netcoreapp3.1\publish\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Univer\1_Course\Proga\OOP\Converter\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
